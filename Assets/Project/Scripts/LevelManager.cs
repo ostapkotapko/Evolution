@@ -22,16 +22,16 @@ public class LevelManager : MonoBehaviour
     {
         timer += Time.deltaTime;
 
-        if(timer > 30)
+        if(timer > 180)
         {
             finalScreenOne.SetActive(true);
         }
-        else if(timer > 20 && currentLevel == 2)
+        else if(timer > 120 && currentLevel == 2)
         {
             currentLevel = 3;
             SceneManager.LoadScene("Level3");
         }
-        else if(timer > 10 && currentLevel == 1)
+        else if(timer > 60 && currentLevel == 1)
         {
             currentLevel = 2;
             SceneManager.LoadScene("Level2");
