@@ -4,7 +4,7 @@ Game Jam: Mini Jam 207: Primal<br>
 Theme: “Primal”<br>
 Duration: 72 hours<br>
 <br>
-🔗 Play the game: [itch.io link]
+🔗 Play the game: [[itch.io link]](https://ostapkotapko.itch.io/evolution)
 
 🎥 Gameplay: 
 <p align="center">
