@@ -5,12 +5,15 @@ Theme: “Primal”
 Duration: 72 hours
 
 🔗 Play the game: [itch.io link]
+
 🎥 Gameplay: 
-![Gameplay](Screenshots/1.png)
-![Gameplay](Screenshots/2.png)
-![Gameplay](Screenshots/3.png)
-![Gameplay](Screenshots/4.png)
-![Gameplay](Screenshots/5.png)
+<p align="center">
+  <img src="Assets/ScreenShots/1.jpg" width="45%">
+  <img src="Assets/ScreenShots/2.jpg" width="45%">
+  <img src="Assets/ScreenShots/3.jpg" width="45%">
+  <img src="Assets/ScreenShots/4.jpg" width="45%">
+  <img src="Assets/ScreenShots/5.jpg" width="45%">
+</p>
 
 🧠 About the Game
 Evolution is a 2D action game created for Mini Jam 207 with the theme "Become the villain".
