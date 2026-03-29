@@ -1,9 +1,9 @@
 🎮 Evolution (Game Jam Project)
 
-Game Jam: Mini Jam 207: Primal
-Theme: “Primal”
-Duration: 72 hours
-
+Game Jam: Mini Jam 207: Primal<br>
+Theme: “Primal”<br>
+Duration: 72 hours<br>
+<br>
 🔗 Play the game: [itch.io link]
 
 🎥 Gameplay: 
